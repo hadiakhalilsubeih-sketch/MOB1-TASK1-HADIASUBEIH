@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name1">Hadia Kh. Subeih</string>
+    <string name="text2">Expert Android Developer</string>
+    <string name="phone">+972 59-223-6861</string>
+    <string name="share">TextView</string>
+    <string name="email">Hadiasubeih@android.com</string>
+</resources>
